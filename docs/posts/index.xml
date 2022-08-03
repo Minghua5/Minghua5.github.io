@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Wu Minghua</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Wu Minghua</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Aug 2022 13:04:08 +0800</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome</title>
+      <link>http://example.org/posts/welcome/</link>
+      <pubDate>Wed, 03 Aug 2022 13:04:08 +0800</pubDate>
+      
+      <guid>http://example.org/posts/welcome/</guid>
+      <description>This is my first blog, welcom! 🔗</description>
+    </item>
+    
+    <item>
+      <title>Code Content</title>
+      <link>http://example.org/posts/test/</link>
+      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/test/</guid>
+      <description>t1 🔗aaaa
+Test aaa text.
+t1.1 🔗aaaa
+t1.2 🔗aaaa
+t1.2.1 🔗aaaa
+t1.2.2 🔗aaaa
+t2 🔗aaaa
+t3 🔗 One /testingsomecode/
+Two Three 超宽显示 var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;;var a = &amp;quot;text&amp;quot;; 超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示超宽显示 var a = &amp;quot;text&amp;quot;;</description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>http://example.org/posts/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>http://example.org/posts/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Math Typesetting</title>
+      <link>http://example.org/posts/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/math-typesetting/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>http://example.org/posts/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

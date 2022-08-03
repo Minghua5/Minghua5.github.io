@@ -2,3 +2,4 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Wu Minghua'
 theme= 'mini'
+ignoreErrors = ["error-remote-getjson"]
