@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>me on Wu Minghua</title>
+    <link>http://example.org/tags/me/</link>
+    <description>Recent content in me on Wu Minghua</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Aug 2022 13:04:08 +0800</lastBuildDate><atom:link href="http://example.org/tags/me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Wed, 03 Aug 2022 13:04:08 +0800</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>About me 🔗Hello, welcome to my blog.
+I am Wu Minghua, with a master&amp;rsquo;s degree in Linguistics from Peking University, China.
+My interests focus on the computational and cognitive aspects of language. I have experience in neural language models and behavioral experimental approach, as well as some knowledge on EEG and fMRI.
+I am looking for a Phd position to investigate how langugae are processed and acquired in human brain by combining both machine learning models and neuroimaging methods.</description>
+    </item>
+    
+  </channel>
+</rss>
