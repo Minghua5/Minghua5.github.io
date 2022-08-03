@@ -13,12 +13,7 @@
       <pubDate>Wed, 03 Aug 2022 13:04:08 +0800</pubDate>
       
       <guid>http://example.org/posts/welcome/</guid>
-      <description>Congratulations! 🔗I made it,
-despite countless fatal errors.
-How much time I have spent to built such a site? 2 days.
-As long as your have succeed for the first time, then it will take only 30 minutes to do it. I think the most
-time-consuming part is to choose a theme for your website.
-How to built a website? Github + hugo</description>
+      <description>&lt;p&gt;Congratulations!&lt;/p&gt;</description>
     </item>
     
   </channel>

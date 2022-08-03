@@ -7,8 +7,8 @@ tages: [
 ]
 ---
 
-# Congratulations! 
-
+Congratulations! 
+<!--more-->
 I made it,
 
 despite countless fatal errors.
