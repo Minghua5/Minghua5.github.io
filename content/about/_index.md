@@ -12,7 +12,7 @@ tags:  [
 # About me 
 Hello, welcome to my blog.
 
-I am Wu Minghua, with a master's degree in **Linguistics** from Peking University, China.
+I am Wu Minghua, a research assistant at BLC lab of PolyU, with a master's degree in **Linguistics** from Peking University, China.
 
 My interests focus on the **computational and cognitive** aspects of language. I have experience in neural language models and behavioral experimental approach, as well as some knowledge on EEG and fMRI. 
 
