@@ -13,6 +13,8 @@ I made it,
 
 despite countless fatal errors.
 
+Is there any changes?
+
  * How much time I have spent to built such a site?
   
   2 days.
