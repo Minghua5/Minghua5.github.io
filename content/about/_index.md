@@ -16,7 +16,7 @@ I am Wu Minghua, with a master's degree in **Linguistics** from Peking Universit
 
 My interests focus on the **computational and cognitive** aspects of language. I have experience in neural language models and behavioral experimental approach, as well as some knowledge on EEG and fMRI. 
 
-I am looking for a Phd position to investigate how langugae are processed and acquired in human brain by combining both machine learning models and neuroimaging methods.
+I am looking for a Phd position to investigate how langugae is processed and acquired in human brain by combining both machine learning models and neuroimaging methods.
 
 To achieve such goal, I have been learning programming and cognitive science by myself. This blog is built to track my academic progress. Sometimes, there will appear science fictions, as I am a fantasy fan of Liu Cixin (刘慈欣) and Ted Chiang.
 
