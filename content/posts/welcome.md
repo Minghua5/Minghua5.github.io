@@ -9,9 +9,7 @@ tages: [
 
 Congratulations! 
 <!--more-->
-I made it,
-
-despite countless fatal errors.
+I made it, despite countless fatal errors.
 
 
  * How much time I have spent to built such a site?
