@@ -6,7 +6,17 @@
     <description>Recent content on Wu Minghua</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Aug 2022 13:04:08 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My personal blog</title>
+      <link>http://example.org/posts/come_back/</link>
+      <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/come_back/</guid>
+      <description>Who am I? 🔗I am a researcher. I love language and brain.
+What you can learn from my blog? 🔗I want to use this site to record my thinking.</description>
+    </item>
+    
     <item>
       <title>First blog</title>
       <link>http://example.org/posts/welcome/</link>
@@ -14,16 +24,6 @@
       
       <guid>http://example.org/posts/welcome/</guid>
       <description>&lt;p&gt;Congratulations!&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>My personal blog</title>
-      <link>http://example.org/posts/come_back/</link>
-      <pubDate>Wed, 03 Aug 2022 13:04:08 +0800</pubDate>
-      
-      <guid>http://example.org/posts/come_back/</guid>
-      <description>Who am I? 🔗I am a researcher. I love language and brain.
-What you can learn from my blog? 🔗I want to use this site to record my thinking.</description>
     </item>
     
   </channel>

@@ -1,6 +1,6 @@
 ---
 title: "My personal blog"
-date: 2022-08-03T13:04:08+08:00
+date: 2023-08-03
 draft: false
 tages: [
     me
