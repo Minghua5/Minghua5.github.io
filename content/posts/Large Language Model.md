@@ -1,7 +1,7 @@
 ---
 title: "LLM & Language processing in human brains"
 date: 2024-04-25
-draft: false
+draft: true
 tages: [
     "LLM"
 ]
