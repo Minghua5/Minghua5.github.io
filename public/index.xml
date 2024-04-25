@@ -17,6 +17,17 @@
     </item>
     
     <item>
+      <title>About me</title>
+      <link>http://example.org/about/_index1/</link>
+      <pubDate>Wed, 03 Aug 2022 13:04:08 +0800</pubDate>
+      
+      <guid>http://example.org/about/_index1/</guid>
+      <description>About me 🔗I am Wu Minghua, a research assistant at BLC lab of PolyU, with a master&amp;rsquo;s degree in Linguistics from Peking University, China.
+My interests focus on the computational and cognitive aspects of language. I have experience in neural language models and neural experimental approaches, such as EEG and fMRI.
+I am looking for a Phd position to investigate how langugae is processed and acquired in human brains by combining both machine learning models and neuroimaging methods.</description>
+    </item>
+    
+    <item>
       <title>First blog</title>
       <link>http://example.org/posts/welcome/</link>
       <pubDate>Wed, 03 Aug 2022 13:04:08 +0800</pubDate>
