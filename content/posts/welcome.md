@@ -3,7 +3,7 @@ title: "First blog"
 date: 2022-08-03T13:04:08+08:00
 draft: false
 tages: [
-    others
+    "others"
 ]
 ---
 

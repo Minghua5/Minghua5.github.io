@@ -1,23 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wu Minghua</title>
+    <title>About me on Wu Minghua</title>
     <link>http://example.org/about/</link>
-    <description>Recent content on Wu Minghua</description>
+    <description>Recent content in About me on Wu Minghua</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 03 Aug 2022 13:04:08 +0800</lastBuildDate><atom:link href="http://example.org/about/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About me</title>
-      <link>http://example.org/about/_index1/</link>
-      <pubDate>Wed, 03 Aug 2022 13:04:08 +0800</pubDate>
-      
-      <guid>http://example.org/about/_index1/</guid>
-      <description>About me 🔗I am Wu Minghua, a research assistant at BLC lab of PolyU, with a master&amp;rsquo;s degree in Linguistics from Peking University, China.
-My interests focus on the computational and cognitive aspects of language. I have experience in neural language models and neural experimental approaches, such as EEG and fMRI.
-I am looking for a Phd position to investigate how langugae is processed and acquired in human brains by combining both machine learning models and neuroimaging methods.</description>
-    </item>
-    
     <item>
       <title></title>
       <link>http://example.org/about/resume/</link>

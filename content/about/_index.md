@@ -1,58 +1,25 @@
-\---
-
+---
 title: "About me"
-
-description: "My background"
-
+description: "my background"
 date: 2022-08-03T13:04:08+08:00
-
-aliases: ["about-me", "contact"]
-
+aliases: ["about-me","contact"]
 author: "Wu Minghua"
+tags:  [
+    "me",
+]
+---
 
-tags:  ["me",]
+# About me 
+I am Wu Minghua, a research assistant at BLC lab of PolyU, with a master's degree in **Linguistics** from Peking University, China.
 
-\---
+My interests focus on the **computational and cognitive** aspects of language. I have experience in neural language models and neural experimental approaches, such as EEG and fMRI. 
 
+I am looking for a Phd position to investigate how langugae is processed and acquired in human brains by combining both machine learning models and neuroimaging methods.
 
-
-**About me** 
-
-I am Wu Minghua, a research assistant at BLC lab of PolyU, with a master's degree in ***\*Linguistics\**** from Peking University, China.
-
-
-
-My interests focus on the ***\*computational and cognitive\**** aspects of language. I have experience in neural language models and neural experimental approaches, such as EEG and fMRI. 
-
+Sometimes, there will appear science fictions, as I am a fantasy fan of Liu Cixin (刘慈欣) and Ted Chiang.
 
 
-I am looking for a PhD position to investigate how language is processed and acquired in human brains by combining both machine learning models and neuroimaging methods.
-
-
-
-Sometimes, there will appear science fiction, as I am a fantasy fan of Liu Cixin (刘慈欣) and Ted Chiang.
-
-
-
-## Research Interests
-
-cognitive development, language acquisition, large language development, cognitive development, attention, predictive coding, distributive representations, semantics
-
-
-
-
-
-
-
-## Skills
-
-
-
-
-
-
-
-## Education
+# Education
 
 **M.A.** Computational Linguistics 
 
@@ -64,7 +31,7 @@ Nanjing University, China
 
 
 
-## Employment
+# Employment
 
 **Research Assistant** | Brain, Language, and Cognition Lab, PI: Prof. Ping Li, Hong Kong (2023.3-)
 
@@ -77,8 +44,20 @@ Nanjing University, China
 | [GitHub]([Minghua5 (github.com)](https://github.com/Minghua5)) | [Twitter](https://twitter.com/tim_qian) | [Email](E0452947@u.nus.edu) | [Blog](https://minghua5.github.io/)|
 
 
+# Research Interests
 
-## Projects
+language processing and acquisition, large language model, multimodal LLM, predictive coding, speech perception, reading, distributed Semantics, embodied cognition, children development, attention, memory, learning, social interaction, fMRI, EEG
+
+
+
+# Skills
+**Programming**: Python, R, MATLAB, SPSS, Praat.
+**Experiment**:  fMRI, EEG, eye-tracking, E-Prime, PsychoPy
+**Language**:    Chinese (native), English (fluency), Japanese(beginner), French (beginner)
+
+
+
+# Projects
 
 - **The neural foundations of online video learning**, HK, Assisted
 
@@ -127,4 +106,3 @@ Nanjing University, China
   The project was funded by the National Training Program of Innovation for Undergraduates.
 
   We examined how native languages and exposure to accented speech influenced listeners’ perception and understanding of accented speech with an E-prime experiment on 42 subjects.
-
