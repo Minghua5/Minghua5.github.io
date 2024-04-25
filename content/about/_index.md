@@ -21,7 +21,7 @@ Sometimes, there will appear science fictions, as I am a fantasy fan of Liu Cixi
 
 **Contact**
 
-| [GitHub](https://github.com/Minghua5) | [Twitter](https://twitter.com/tim_qian) | [Email](E0452947@u.nus.edu) | [Blog](https://minghua5.github.io/)|
+| [GitHub](https://github.com/Minghua5) | [Twitter](https://twitter.com/MINGHUAWU7) | [Email](mailto: E0452947@u.nus.edu) | [Blog](https://minghua5.github.io/)|
 
 
 # Education
