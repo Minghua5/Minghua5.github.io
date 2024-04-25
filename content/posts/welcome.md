@@ -16,9 +16,7 @@ I made it, despite countless fatal errors.
   
   2 days.
   
-  As long as your have succeed for the first time, then it will take only 30 minutes to do it. I think the most 
-  
-  time-consuming part is to choose a theme for your website. 
+  As long as your have succeed for the first time, then it will take only 30 minutes to do it. I think the most time-consuming part is to choose a theme for your website. 
 
  * How to built a website? 
   
