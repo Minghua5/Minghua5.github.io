@@ -23,6 +23,10 @@
     <loc>http://example.org/tags/</loc>
     <lastmod>2022-08-03T13:04:08+08:00</lastmod>
   </url><url>
+    <loc>http://example.org/research/background/</loc>
+  </url><url>
     <loc>http://example.org/categories/</loc>
+  </url><url>
+    <loc>http://example.org/research/</loc>
   </url>
 </urlset>

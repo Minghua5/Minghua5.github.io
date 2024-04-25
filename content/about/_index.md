@@ -21,3 +21,5 @@ I am looking for a Phd position to investigate how langugae is processed and acq
 To achieve such goal, I have been learning programming and cognitive science by myself. This blog is built to track my academic progress. Sometimes, there will appear science fictions, as I am a fantasy fan of Liu Cixin (刘慈欣) and Ted Chiang.
 
 If you have any ideas, please feel free to contact me at <E0452947@u.nus.edu>. 
+
+## Education
