@@ -17,6 +17,17 @@
     </item>
     
     <item>
+      <title>About me</title>
+      <link>http://example.org/about/_index1/</link>
+      <pubDate>Wed, 03 Aug 2022 13:04:08 +0800</pubDate>
+      
+      <guid>http://example.org/about/_index1/</guid>
+      <description>About me 🔗I am Wu Minghua, a research assistant at BLC lab of PolyU, with a master&amp;rsquo;s degree in Linguistics from Peking University, China.
+My interests focus on the computational and cognitive aspects of language. I have experience in neural language models and neural experimental approaches, such as EEG and fMRI.
+I am looking for a Phd position to investigate how langugae is processed and acquired in human brains by combining both machine learning models and neuroimaging methods.</description>
+    </item>
+    
+    <item>
       <title>First blog</title>
       <link>http://example.org/posts/welcome/</link>
       <pubDate>Wed, 03 Aug 2022 13:04:08 +0800</pubDate>
@@ -27,11 +38,22 @@
     
     <item>
       <title></title>
-      <link>http://example.org/research/background/</link>
+      <link>http://example.org/about/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/research/background/</guid>
-      <description>Education 🔗MA 🔗BA 🔗Working Experience 🔗Projects 🔗</description>
+      <guid>http://example.org/about/resume/</guid>
+      <description>Tim Qian 🔗A full-stack JS developer and open-source activist.
+Contact 🔗| GitHub | Twitter | Email | Website | Blog | Patreon |
+Teck Stack 🔗 Backend: Node.js; Express; AWS lambda; serverless; GraphQL; RabbitMQ Database: DynamoDB; MongoDB; Postgres; SQLite; AWS RDS; Redis Frontend: react.js; SASS/CSS; d3.js Chrome Extension: react.js; SASS/CSS; Projects (open source) 🔗 chart.xkcd: xkcd styled chart lib. 5.5k+ stars on GitHub, 100k downloads Built with d3.js tomato-pie: A new UI for Pomodoro Technique.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/posts/large-language-model/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/large-language-model/</guid>
+      <description>How the Language model could be used to study the neural represeantations of language in human brains?</description>
     </item>
     
   </channel>
